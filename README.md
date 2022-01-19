@@ -14,7 +14,7 @@ A study conducted in 2020 interviewed and surveyed health care providers from co
 Further experts prognose that by 2025, the market volume for digital products and services will to approximately 38 billion Euro in Germany and roughly 155 billion Euro in the EU. (Hosseini, 2019)
 You see, there are a lot of opportunities opening up in the digital health field because Covid showed us where we lag behind and which issues we have to overcome. Covid showed us in particular how digital our world had become and what opportunities we have in IT which we haven’t even thought about before. Furthermore, the numbers don’t lie and digital health is and will be a promising and future-proof career.
 
-References
+#### References
 
 Culture4life GmbH. (2022, January 7). Luca app - Luca in Zahlen. luca. Retrieved January 7, 2022, from https://www.luca-app.de/ 
 Robert Koch Institut. (2022, January 7). Analyse: Corona-Warn-App (CWA): Kennzahlen. Corona-Warn-App. Retrieved January 7, 2022, from https://www.coronawarn.app/de/analysis/ 
