@@ -16,8 +16,8 @@ You see, there are a lot of opportunities opening up in the digital health field
 
 #### References
 
-Culture4life GmbH. (2022, January 7). Luca app - Luca in Zahlen. luca. Retrieved January  7, 2022, from https://www.luca-app.de/ 
-Robert Koch Institut. (2022, January 7). Analyse: Corona-Warn-App (CWA): Kennzahlen.      Corona-Warn-App. Retrieved January 7, 2022, from       https://www.coronawarn.app/de/analysis/ 
-Vincent, J. (2021, March 9). Self-flying drones are helping speed deliveries of COVID-19   vaccines in Ghana. The Verge. Retrieved January 10, 2022, from                https://www.theverge.com/2021/3/9/22320965/drone-delivery-vaccine-ghana-zipline-cold-chain-storage 
-Deloitte. (2020). Digital transformation - Wo steht das deutsche Gesundheitswesen? 
-Rong, O., Hosseini, M., Kaltenbach, T., Choueiri, P., & Neumann, K. (2019, October 22).  Digitalization in the healthcare sector: Don't wait – take action now! Roland Berger. Retrieved January 10, 2022, from https://www.rolandberger.com/en/Insights/Publications/Digitalization-in-the-healthcare-sector-Don%E2%80%99t-wait-take-action-now!.html 
+- Culture4life GmbH. (2022, January 7). Luca app - Luca in Zahlen. luca. Retrieved January  7, 2022, from https://www.luca-app.de/ 
+- Robert Koch Institut. (2022, January 7). Analyse: Corona-Warn-App (CWA): Kennzahlen.    Corona-Warn-App. Retrieved January 7, 2022, from  https://www.coronawarn.app/de/analysis/ 
+- Vincent, J. (2021, March 9). Self-flying drones are helping speed deliveries of COVID-19 vaccines in Ghana. The Verge. Retrieved January 10, 2022, from           https://www.theverge.com/2021/3/9/22320965/drone-delivery-vaccine-ghana-zipline-cold-chain-storage 
+- Deloitte. (2020). Digital transformation - Wo steht das deutsche Gesundheitswesen? 
+- Rong, O., Hosseini, M., Kaltenbach, T., Choueiri, P., & Neumann, K. (2019, October 22).  Digitalization in the healthcare sector: Don't wait – take action now! Roland Berger. Retrieved January 10, 2022, from https://www.rolandberger.com/en/Insights/Publications/Digitalization-in-the-healthcare-sector-Don%E2%80%99t-wait-take-action-now!.html 
